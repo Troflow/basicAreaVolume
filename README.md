@@ -1,5 +1,6 @@
 # basicAreaVolume
 
-Basic C# application I made in class to calcculate area volume based on length that is fixed in application.
+C# application that calculates area and volume based on length.
+Length is fixed in the application.
 
-Currently only one value works and input ie not supportd.
+User input is currently not supported.
