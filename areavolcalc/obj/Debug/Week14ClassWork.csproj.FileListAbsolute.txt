@@ -1,0 +1,12 @@
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\bin\Debug\Week14ClassWork.exe.config
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\bin\Debug\Week14ClassWork.exe
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\bin\Debug\Week14ClassWork.pdb
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.csprojResolveAssemblyReference.cache
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.Form1.resources
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.Properties.Resources.resources
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.csproj.GenerateResource.Cache
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.exe
+c:\users\mbashir1\documents\visual studio 2015\Projects\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.pdb
+D:\csis1175\Week14ClassWork\Week14ClassWork\bin\Debug\Week14ClassWork.exe.config
+D:\csis1175\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.exe
+D:\csis1175\Week14ClassWork\Week14ClassWork\obj\Debug\Week14ClassWork.pdb
